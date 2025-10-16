@@ -1,0 +1,14 @@
+C:\Users\ALI\source\repos\mohit masahat dayere\mohit masahat dayere\bin\Debug\net8.0\mohit masahat dayere.exe
+C:\Users\ALI\source\repos\mohit masahat dayere\mohit masahat dayere\bin\Debug\net8.0\mohit masahat dayere.deps.json
+C:\Users\ALI\source\repos\mohit masahat dayere\mohit masahat dayere\bin\Debug\net8.0\mohit masahat dayere.runtimeconfig.json
+C:\Users\ALI\source\repos\mohit masahat dayere\mohit masahat dayere\bin\Debug\net8.0\mohit masahat dayere.dll
+C:\Users\ALI\source\repos\mohit masahat dayere\mohit masahat dayere\bin\Debug\net8.0\mohit masahat dayere.pdb
+C:\Users\ALI\source\repos\mohit masahat dayere\mohit masahat dayere\obj\Debug\net8.0\mohit masahat dayere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI\source\repos\mohit masahat dayere\mohit masahat dayere\obj\Debug\net8.0\mohit masahat dayere.AssemblyInfoInputs.cache
+C:\Users\ALI\source\repos\mohit masahat dayere\mohit masahat dayere\obj\Debug\net8.0\mohit masahat dayere.AssemblyInfo.cs
+C:\Users\ALI\source\repos\mohit masahat dayere\mohit masahat dayere\obj\Debug\net8.0\mohit masahat dayere.csproj.CoreCompileInputs.cache
+C:\Users\ALI\source\repos\mohit masahat dayere\mohit masahat dayere\obj\Debug\net8.0\mohit masahat dayere.dll
+C:\Users\ALI\source\repos\mohit masahat dayere\mohit masahat dayere\obj\Debug\net8.0\refint\mohit masahat dayere.dll
+C:\Users\ALI\source\repos\mohit masahat dayere\mohit masahat dayere\obj\Debug\net8.0\mohit masahat dayere.pdb
+C:\Users\ALI\source\repos\mohit masahat dayere\mohit masahat dayere\obj\Debug\net8.0\mohit masahat dayere.genruntimeconfig.cache
+C:\Users\ALI\source\repos\mohit masahat dayere\mohit masahat dayere\obj\Debug\net8.0\ref\mohit masahat dayere.dll
