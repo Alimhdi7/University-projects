@@ -1,0 +1,14 @@
+C:\Users\ALI\source\repos\temperatur to farenheit\temperatur to farenheit\bin\Debug\net8.0\temperatur to farenheit.exe
+C:\Users\ALI\source\repos\temperatur to farenheit\temperatur to farenheit\bin\Debug\net8.0\temperatur to farenheit.deps.json
+C:\Users\ALI\source\repos\temperatur to farenheit\temperatur to farenheit\bin\Debug\net8.0\temperatur to farenheit.runtimeconfig.json
+C:\Users\ALI\source\repos\temperatur to farenheit\temperatur to farenheit\bin\Debug\net8.0\temperatur to farenheit.dll
+C:\Users\ALI\source\repos\temperatur to farenheit\temperatur to farenheit\bin\Debug\net8.0\temperatur to farenheit.pdb
+C:\Users\ALI\source\repos\temperatur to farenheit\temperatur to farenheit\obj\Debug\net8.0\temperatur to farenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI\source\repos\temperatur to farenheit\temperatur to farenheit\obj\Debug\net8.0\temperatur to farenheit.AssemblyInfoInputs.cache
+C:\Users\ALI\source\repos\temperatur to farenheit\temperatur to farenheit\obj\Debug\net8.0\temperatur to farenheit.AssemblyInfo.cs
+C:\Users\ALI\source\repos\temperatur to farenheit\temperatur to farenheit\obj\Debug\net8.0\temperatur to farenheit.csproj.CoreCompileInputs.cache
+C:\Users\ALI\source\repos\temperatur to farenheit\temperatur to farenheit\obj\Debug\net8.0\temperatur to farenheit.dll
+C:\Users\ALI\source\repos\temperatur to farenheit\temperatur to farenheit\obj\Debug\net8.0\refint\temperatur to farenheit.dll
+C:\Users\ALI\source\repos\temperatur to farenheit\temperatur to farenheit\obj\Debug\net8.0\temperatur to farenheit.pdb
+C:\Users\ALI\source\repos\temperatur to farenheit\temperatur to farenheit\obj\Debug\net8.0\temperatur to farenheit.genruntimeconfig.cache
+C:\Users\ALI\source\repos\temperatur to farenheit\temperatur to farenheit\obj\Debug\net8.0\ref\temperatur to farenheit.dll
