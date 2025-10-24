@@ -1,0 +1,14 @@
+C:\Users\ALI\source\repos\Adad mazrab7 else zrbdr 3\Adad mazrab7 else zrbdr 3\bin\Debug\net8.0\Adad mazrab7 else zrbdr 3.exe
+C:\Users\ALI\source\repos\Adad mazrab7 else zrbdr 3\Adad mazrab7 else zrbdr 3\bin\Debug\net8.0\Adad mazrab7 else zrbdr 3.deps.json
+C:\Users\ALI\source\repos\Adad mazrab7 else zrbdr 3\Adad mazrab7 else zrbdr 3\bin\Debug\net8.0\Adad mazrab7 else zrbdr 3.runtimeconfig.json
+C:\Users\ALI\source\repos\Adad mazrab7 else zrbdr 3\Adad mazrab7 else zrbdr 3\bin\Debug\net8.0\Adad mazrab7 else zrbdr 3.dll
+C:\Users\ALI\source\repos\Adad mazrab7 else zrbdr 3\Adad mazrab7 else zrbdr 3\bin\Debug\net8.0\Adad mazrab7 else zrbdr 3.pdb
+C:\Users\ALI\source\repos\Adad mazrab7 else zrbdr 3\Adad mazrab7 else zrbdr 3\obj\Debug\net8.0\Adad mazrab7 else zrbdr 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI\source\repos\Adad mazrab7 else zrbdr 3\Adad mazrab7 else zrbdr 3\obj\Debug\net8.0\Adad mazrab7 else zrbdr 3.AssemblyInfoInputs.cache
+C:\Users\ALI\source\repos\Adad mazrab7 else zrbdr 3\Adad mazrab7 else zrbdr 3\obj\Debug\net8.0\Adad mazrab7 else zrbdr 3.AssemblyInfo.cs
+C:\Users\ALI\source\repos\Adad mazrab7 else zrbdr 3\Adad mazrab7 else zrbdr 3\obj\Debug\net8.0\Adad mazrab7 else zrbdr 3.csproj.CoreCompileInputs.cache
+C:\Users\ALI\source\repos\Adad mazrab7 else zrbdr 3\Adad mazrab7 else zrbdr 3\obj\Debug\net8.0\Adad mazrab7 else zrbdr 3.dll
+C:\Users\ALI\source\repos\Adad mazrab7 else zrbdr 3\Adad mazrab7 else zrbdr 3\obj\Debug\net8.0\refint\Adad mazrab7 else zrbdr 3.dll
+C:\Users\ALI\source\repos\Adad mazrab7 else zrbdr 3\Adad mazrab7 else zrbdr 3\obj\Debug\net8.0\Adad mazrab7 else zrbdr 3.pdb
+C:\Users\ALI\source\repos\Adad mazrab7 else zrbdr 3\Adad mazrab7 else zrbdr 3\obj\Debug\net8.0\Adad mazrab7 else zrbdr 3.genruntimeconfig.cache
+C:\Users\ALI\source\repos\Adad mazrab7 else zrbdr 3\Adad mazrab7 else zrbdr 3\obj\Debug\net8.0\ref\Adad mazrab7 else zrbdr 3.dll
