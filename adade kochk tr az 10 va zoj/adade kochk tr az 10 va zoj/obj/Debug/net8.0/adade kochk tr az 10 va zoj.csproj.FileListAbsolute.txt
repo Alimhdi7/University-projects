@@ -1,0 +1,14 @@
+C:\Users\ALI\source\repos\adade kochk tr az 10 va zoj\adade kochk tr az 10 va zoj\bin\Debug\net8.0\adade kochk tr az 10 va zoj.exe
+C:\Users\ALI\source\repos\adade kochk tr az 10 va zoj\adade kochk tr az 10 va zoj\bin\Debug\net8.0\adade kochk tr az 10 va zoj.deps.json
+C:\Users\ALI\source\repos\adade kochk tr az 10 va zoj\adade kochk tr az 10 va zoj\bin\Debug\net8.0\adade kochk tr az 10 va zoj.runtimeconfig.json
+C:\Users\ALI\source\repos\adade kochk tr az 10 va zoj\adade kochk tr az 10 va zoj\bin\Debug\net8.0\adade kochk tr az 10 va zoj.dll
+C:\Users\ALI\source\repos\adade kochk tr az 10 va zoj\adade kochk tr az 10 va zoj\bin\Debug\net8.0\adade kochk tr az 10 va zoj.pdb
+C:\Users\ALI\source\repos\adade kochk tr az 10 va zoj\adade kochk tr az 10 va zoj\obj\Debug\net8.0\adade kochk tr az 10 va zoj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI\source\repos\adade kochk tr az 10 va zoj\adade kochk tr az 10 va zoj\obj\Debug\net8.0\adade kochk tr az 10 va zoj.AssemblyInfoInputs.cache
+C:\Users\ALI\source\repos\adade kochk tr az 10 va zoj\adade kochk tr az 10 va zoj\obj\Debug\net8.0\adade kochk tr az 10 va zoj.AssemblyInfo.cs
+C:\Users\ALI\source\repos\adade kochk tr az 10 va zoj\adade kochk tr az 10 va zoj\obj\Debug\net8.0\adade kochk tr az 10 va zoj.csproj.CoreCompileInputs.cache
+C:\Users\ALI\source\repos\adade kochk tr az 10 va zoj\adade kochk tr az 10 va zoj\obj\Debug\net8.0\adade kochk tr az 10 va zoj.dll
+C:\Users\ALI\source\repos\adade kochk tr az 10 va zoj\adade kochk tr az 10 va zoj\obj\Debug\net8.0\refint\adade kochk tr az 10 va zoj.dll
+C:\Users\ALI\source\repos\adade kochk tr az 10 va zoj\adade kochk tr az 10 va zoj\obj\Debug\net8.0\adade kochk tr az 10 va zoj.pdb
+C:\Users\ALI\source\repos\adade kochk tr az 10 va zoj\adade kochk tr az 10 va zoj\obj\Debug\net8.0\adade kochk tr az 10 va zoj.genruntimeconfig.cache
+C:\Users\ALI\source\repos\adade kochk tr az 10 va zoj\adade kochk tr az 10 va zoj\obj\Debug\net8.0\ref\adade kochk tr az 10 va zoj.dll
