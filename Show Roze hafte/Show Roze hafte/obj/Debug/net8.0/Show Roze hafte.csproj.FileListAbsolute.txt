@@ -1,0 +1,14 @@
+C:\Users\ALI\source\repos\Show Roze hafte\Show Roze hafte\bin\Debug\net8.0\Show Roze hafte.exe
+C:\Users\ALI\source\repos\Show Roze hafte\Show Roze hafte\bin\Debug\net8.0\Show Roze hafte.deps.json
+C:\Users\ALI\source\repos\Show Roze hafte\Show Roze hafte\bin\Debug\net8.0\Show Roze hafte.runtimeconfig.json
+C:\Users\ALI\source\repos\Show Roze hafte\Show Roze hafte\bin\Debug\net8.0\Show Roze hafte.dll
+C:\Users\ALI\source\repos\Show Roze hafte\Show Roze hafte\bin\Debug\net8.0\Show Roze hafte.pdb
+C:\Users\ALI\source\repos\Show Roze hafte\Show Roze hafte\obj\Debug\net8.0\Show Roze hafte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI\source\repos\Show Roze hafte\Show Roze hafte\obj\Debug\net8.0\Show Roze hafte.AssemblyInfoInputs.cache
+C:\Users\ALI\source\repos\Show Roze hafte\Show Roze hafte\obj\Debug\net8.0\Show Roze hafte.AssemblyInfo.cs
+C:\Users\ALI\source\repos\Show Roze hafte\Show Roze hafte\obj\Debug\net8.0\Show Roze hafte.csproj.CoreCompileInputs.cache
+C:\Users\ALI\source\repos\Show Roze hafte\Show Roze hafte\obj\Debug\net8.0\Show Roze hafte.dll
+C:\Users\ALI\source\repos\Show Roze hafte\Show Roze hafte\obj\Debug\net8.0\refint\Show Roze hafte.dll
+C:\Users\ALI\source\repos\Show Roze hafte\Show Roze hafte\obj\Debug\net8.0\Show Roze hafte.pdb
+C:\Users\ALI\source\repos\Show Roze hafte\Show Roze hafte\obj\Debug\net8.0\Show Roze hafte.genruntimeconfig.cache
+C:\Users\ALI\source\repos\Show Roze hafte\Show Roze hafte\obj\Debug\net8.0\ref\Show Roze hafte.dll

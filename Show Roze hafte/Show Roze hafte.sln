@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Show Roze hafte", "Show Roze hafte\Show Roze hafte.csproj", "{65634B97-2D6F-469C-85C8-847BE5806BAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65634B97-2D6F-469C-85C8-847BE5806BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65634B97-2D6F-469C-85C8-847BE5806BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65634B97-2D6F-469C-85C8-847BE5806BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65634B97-2D6F-469C-85C8-847BE5806BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {141DFF65-057E-4441-B09B-D8DB92527B9B}
+	EndGlobalSection
+EndGlobal
