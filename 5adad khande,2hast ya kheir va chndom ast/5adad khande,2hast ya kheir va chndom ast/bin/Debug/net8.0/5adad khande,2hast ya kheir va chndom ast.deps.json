@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "5adad khande,2hast ya kheir va chndom ast/1.0.0": {
+        "runtime": {
+          "5adad khande,2hast ya kheir va chndom ast.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5adad khande,2hast ya kheir va chndom ast/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

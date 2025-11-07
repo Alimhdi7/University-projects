@@ -1,0 +1,14 @@
+C:\Users\ALI\source\repos\5adad khande,2hast ya kheir va chndom ast\5adad khande,2hast ya kheir va chndom ast\bin\Debug\net8.0\5adad khande,2hast ya kheir va chndom ast.exe
+C:\Users\ALI\source\repos\5adad khande,2hast ya kheir va chndom ast\5adad khande,2hast ya kheir va chndom ast\bin\Debug\net8.0\5adad khande,2hast ya kheir va chndom ast.deps.json
+C:\Users\ALI\source\repos\5adad khande,2hast ya kheir va chndom ast\5adad khande,2hast ya kheir va chndom ast\bin\Debug\net8.0\5adad khande,2hast ya kheir va chndom ast.runtimeconfig.json
+C:\Users\ALI\source\repos\5adad khande,2hast ya kheir va chndom ast\5adad khande,2hast ya kheir va chndom ast\bin\Debug\net8.0\5adad khande,2hast ya kheir va chndom ast.dll
+C:\Users\ALI\source\repos\5adad khande,2hast ya kheir va chndom ast\5adad khande,2hast ya kheir va chndom ast\bin\Debug\net8.0\5adad khande,2hast ya kheir va chndom ast.pdb
+C:\Users\ALI\source\repos\5adad khande,2hast ya kheir va chndom ast\5adad khande,2hast ya kheir va chndom ast\obj\Debug\net8.0\5adad khande,2hast ya kheir va chndom ast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI\source\repos\5adad khande,2hast ya kheir va chndom ast\5adad khande,2hast ya kheir va chndom ast\obj\Debug\net8.0\5adad khande,2hast ya kheir va chndom ast.AssemblyInfoInputs.cache
+C:\Users\ALI\source\repos\5adad khande,2hast ya kheir va chndom ast\5adad khande,2hast ya kheir va chndom ast\obj\Debug\net8.0\5adad khande,2hast ya kheir va chndom ast.AssemblyInfo.cs
+C:\Users\ALI\source\repos\5adad khande,2hast ya kheir va chndom ast\5adad khande,2hast ya kheir va chndom ast\obj\Debug\net8.0\5adad khande,2hast ya kheir va chndom ast.csproj.CoreCompileInputs.cache
+C:\Users\ALI\source\repos\5adad khande,2hast ya kheir va chndom ast\5adad khande,2hast ya kheir va chndom ast\obj\Debug\net8.0\5adad khande,2hast ya kheir va chndom ast.dll
+C:\Users\ALI\source\repos\5adad khande,2hast ya kheir va chndom ast\5adad khande,2hast ya kheir va chndom ast\obj\Debug\net8.0\refint\5adad khande,2hast ya kheir va chndom ast.dll
+C:\Users\ALI\source\repos\5adad khande,2hast ya kheir va chndom ast\5adad khande,2hast ya kheir va chndom ast\obj\Debug\net8.0\5adad khande,2hast ya kheir va chndom ast.pdb
+C:\Users\ALI\source\repos\5adad khande,2hast ya kheir va chndom ast\5adad khande,2hast ya kheir va chndom ast\obj\Debug\net8.0\5adad khande,2hast ya kheir va chndom ast.genruntimeconfig.cache
+C:\Users\ALI\source\repos\5adad khande,2hast ya kheir va chndom ast\5adad khande,2hast ya kheir va chndom ast\obj\Debug\net8.0\ref\5adad khande,2hast ya kheir va chndom ast.dll
