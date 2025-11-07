@@ -1,0 +1,14 @@
+C:\Users\ALI\source\repos\10adad ra khande,adade zojo fard ra nmysh dahad\10adad ra khande,adade zojo fard ra nmysh dahad\bin\Debug\net8.0\10adad ra khande,adade zojo fard ra nmysh dahad.exe
+C:\Users\ALI\source\repos\10adad ra khande,adade zojo fard ra nmysh dahad\10adad ra khande,adade zojo fard ra nmysh dahad\bin\Debug\net8.0\10adad ra khande,adade zojo fard ra nmysh dahad.deps.json
+C:\Users\ALI\source\repos\10adad ra khande,adade zojo fard ra nmysh dahad\10adad ra khande,adade zojo fard ra nmysh dahad\bin\Debug\net8.0\10adad ra khande,adade zojo fard ra nmysh dahad.runtimeconfig.json
+C:\Users\ALI\source\repos\10adad ra khande,adade zojo fard ra nmysh dahad\10adad ra khande,adade zojo fard ra nmysh dahad\bin\Debug\net8.0\10adad ra khande,adade zojo fard ra nmysh dahad.dll
+C:\Users\ALI\source\repos\10adad ra khande,adade zojo fard ra nmysh dahad\10adad ra khande,adade zojo fard ra nmysh dahad\bin\Debug\net8.0\10adad ra khande,adade zojo fard ra nmysh dahad.pdb
+C:\Users\ALI\source\repos\10adad ra khande,adade zojo fard ra nmysh dahad\10adad ra khande,adade zojo fard ra nmysh dahad\obj\Debug\net8.0\10adad ra khande,adade zojo fard ra nmysh dahad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI\source\repos\10adad ra khande,adade zojo fard ra nmysh dahad\10adad ra khande,adade zojo fard ra nmysh dahad\obj\Debug\net8.0\10adad ra khande,adade zojo fard ra nmysh dahad.AssemblyInfoInputs.cache
+C:\Users\ALI\source\repos\10adad ra khande,adade zojo fard ra nmysh dahad\10adad ra khande,adade zojo fard ra nmysh dahad\obj\Debug\net8.0\10adad ra khande,adade zojo fard ra nmysh dahad.AssemblyInfo.cs
+C:\Users\ALI\source\repos\10adad ra khande,adade zojo fard ra nmysh dahad\10adad ra khande,adade zojo fard ra nmysh dahad\obj\Debug\net8.0\10adad ra khande,adade zojo fard ra nmysh dahad.csproj.CoreCompileInputs.cache
+C:\Users\ALI\source\repos\10adad ra khande,adade zojo fard ra nmysh dahad\10adad ra khande,adade zojo fard ra nmysh dahad\obj\Debug\net8.0\10adad ra khande,adade zojo fard ra nmysh dahad.dll
+C:\Users\ALI\source\repos\10adad ra khande,adade zojo fard ra nmysh dahad\10adad ra khande,adade zojo fard ra nmysh dahad\obj\Debug\net8.0\refint\10adad ra khande,adade zojo fard ra nmysh dahad.dll
+C:\Users\ALI\source\repos\10adad ra khande,adade zojo fard ra nmysh dahad\10adad ra khande,adade zojo fard ra nmysh dahad\obj\Debug\net8.0\10adad ra khande,adade zojo fard ra nmysh dahad.pdb
+C:\Users\ALI\source\repos\10adad ra khande,adade zojo fard ra nmysh dahad\10adad ra khande,adade zojo fard ra nmysh dahad\obj\Debug\net8.0\10adad ra khande,adade zojo fard ra nmysh dahad.genruntimeconfig.cache
+C:\Users\ALI\source\repos\10adad ra khande,adade zojo fard ra nmysh dahad\10adad ra khande,adade zojo fard ra nmysh dahad\obj\Debug\net8.0\ref\10adad ra khande,adade zojo fard ra nmysh dahad.dll
