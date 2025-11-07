@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Horofe I-H-E/1.0.0": {
+        "runtime": {
+          "Horofe I-H-E.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Horofe I-H-E/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
