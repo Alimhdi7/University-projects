@@ -1,0 +1,14 @@
+C:\Users\ALI\source\repos\hasele zrbe adade vorodi\hasele zrbe adade vorodi\bin\Debug\net8.0\hasele zrbe adade vorodi.exe
+C:\Users\ALI\source\repos\hasele zrbe adade vorodi\hasele zrbe adade vorodi\bin\Debug\net8.0\hasele zrbe adade vorodi.deps.json
+C:\Users\ALI\source\repos\hasele zrbe adade vorodi\hasele zrbe adade vorodi\bin\Debug\net8.0\hasele zrbe adade vorodi.runtimeconfig.json
+C:\Users\ALI\source\repos\hasele zrbe adade vorodi\hasele zrbe adade vorodi\bin\Debug\net8.0\hasele zrbe adade vorodi.dll
+C:\Users\ALI\source\repos\hasele zrbe adade vorodi\hasele zrbe adade vorodi\bin\Debug\net8.0\hasele zrbe adade vorodi.pdb
+C:\Users\ALI\source\repos\hasele zrbe adade vorodi\hasele zrbe adade vorodi\obj\Debug\net8.0\hasele zrbe adade vorodi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI\source\repos\hasele zrbe adade vorodi\hasele zrbe adade vorodi\obj\Debug\net8.0\hasele zrbe adade vorodi.AssemblyInfoInputs.cache
+C:\Users\ALI\source\repos\hasele zrbe adade vorodi\hasele zrbe adade vorodi\obj\Debug\net8.0\hasele zrbe adade vorodi.AssemblyInfo.cs
+C:\Users\ALI\source\repos\hasele zrbe adade vorodi\hasele zrbe adade vorodi\obj\Debug\net8.0\hasele zrbe adade vorodi.csproj.CoreCompileInputs.cache
+C:\Users\ALI\source\repos\hasele zrbe adade vorodi\hasele zrbe adade vorodi\obj\Debug\net8.0\hasele zrbe adade vorodi.dll
+C:\Users\ALI\source\repos\hasele zrbe adade vorodi\hasele zrbe adade vorodi\obj\Debug\net8.0\refint\hasele zrbe adade vorodi.dll
+C:\Users\ALI\source\repos\hasele zrbe adade vorodi\hasele zrbe adade vorodi\obj\Debug\net8.0\hasele zrbe adade vorodi.pdb
+C:\Users\ALI\source\repos\hasele zrbe adade vorodi\hasele zrbe adade vorodi\obj\Debug\net8.0\hasele zrbe adade vorodi.genruntimeconfig.cache
+C:\Users\ALI\source\repos\hasele zrbe adade vorodi\hasele zrbe adade vorodi\obj\Debug\net8.0\ref\hasele zrbe adade vorodi.dll

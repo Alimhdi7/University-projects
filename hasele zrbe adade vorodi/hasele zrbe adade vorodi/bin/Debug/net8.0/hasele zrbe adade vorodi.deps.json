@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "hasele zrbe adade vorodi/1.0.0": {
+        "runtime": {
+          "hasele zrbe adade vorodi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hasele zrbe adade vorodi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
