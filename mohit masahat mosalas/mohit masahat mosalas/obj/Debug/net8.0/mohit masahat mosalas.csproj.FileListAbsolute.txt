@@ -1,0 +1,14 @@
+C:\Users\ALI\source\repos\mohit masahat mosalas\mohit masahat mosalas\bin\Debug\net8.0\mohit masahat mosalas.exe
+C:\Users\ALI\source\repos\mohit masahat mosalas\mohit masahat mosalas\bin\Debug\net8.0\mohit masahat mosalas.deps.json
+C:\Users\ALI\source\repos\mohit masahat mosalas\mohit masahat mosalas\bin\Debug\net8.0\mohit masahat mosalas.runtimeconfig.json
+C:\Users\ALI\source\repos\mohit masahat mosalas\mohit masahat mosalas\bin\Debug\net8.0\mohit masahat mosalas.dll
+C:\Users\ALI\source\repos\mohit masahat mosalas\mohit masahat mosalas\bin\Debug\net8.0\mohit masahat mosalas.pdb
+C:\Users\ALI\source\repos\mohit masahat mosalas\mohit masahat mosalas\obj\Debug\net8.0\mohit masahat mosalas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI\source\repos\mohit masahat mosalas\mohit masahat mosalas\obj\Debug\net8.0\mohit masahat mosalas.AssemblyInfoInputs.cache
+C:\Users\ALI\source\repos\mohit masahat mosalas\mohit masahat mosalas\obj\Debug\net8.0\mohit masahat mosalas.AssemblyInfo.cs
+C:\Users\ALI\source\repos\mohit masahat mosalas\mohit masahat mosalas\obj\Debug\net8.0\mohit masahat mosalas.csproj.CoreCompileInputs.cache
+C:\Users\ALI\source\repos\mohit masahat mosalas\mohit masahat mosalas\obj\Debug\net8.0\mohit masahat mosalas.dll
+C:\Users\ALI\source\repos\mohit masahat mosalas\mohit masahat mosalas\obj\Debug\net8.0\refint\mohit masahat mosalas.dll
+C:\Users\ALI\source\repos\mohit masahat mosalas\mohit masahat mosalas\obj\Debug\net8.0\mohit masahat mosalas.pdb
+C:\Users\ALI\source\repos\mohit masahat mosalas\mohit masahat mosalas\obj\Debug\net8.0\mohit masahat mosalas.genruntimeconfig.cache
+C:\Users\ALI\source\repos\mohit masahat mosalas\mohit masahat mosalas\obj\Debug\net8.0\ref\mohit masahat mosalas.dll
