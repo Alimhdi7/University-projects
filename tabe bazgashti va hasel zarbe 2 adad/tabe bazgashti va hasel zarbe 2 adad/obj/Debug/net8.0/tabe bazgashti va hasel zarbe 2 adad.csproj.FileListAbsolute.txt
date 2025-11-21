@@ -1,0 +1,14 @@
+C:\Users\ALI\source\repos\tabe bazgashti va hasel zarbe 2 adad\tabe bazgashti va hasel zarbe 2 adad\bin\Debug\net8.0\tabe bazgashti va hasel zarbe 2 adad.exe
+C:\Users\ALI\source\repos\tabe bazgashti va hasel zarbe 2 adad\tabe bazgashti va hasel zarbe 2 adad\bin\Debug\net8.0\tabe bazgashti va hasel zarbe 2 adad.deps.json
+C:\Users\ALI\source\repos\tabe bazgashti va hasel zarbe 2 adad\tabe bazgashti va hasel zarbe 2 adad\bin\Debug\net8.0\tabe bazgashti va hasel zarbe 2 adad.runtimeconfig.json
+C:\Users\ALI\source\repos\tabe bazgashti va hasel zarbe 2 adad\tabe bazgashti va hasel zarbe 2 adad\bin\Debug\net8.0\tabe bazgashti va hasel zarbe 2 adad.dll
+C:\Users\ALI\source\repos\tabe bazgashti va hasel zarbe 2 adad\tabe bazgashti va hasel zarbe 2 adad\bin\Debug\net8.0\tabe bazgashti va hasel zarbe 2 adad.pdb
+C:\Users\ALI\source\repos\tabe bazgashti va hasel zarbe 2 adad\tabe bazgashti va hasel zarbe 2 adad\obj\Debug\net8.0\tabe bazgashti va hasel zarbe 2 adad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI\source\repos\tabe bazgashti va hasel zarbe 2 adad\tabe bazgashti va hasel zarbe 2 adad\obj\Debug\net8.0\tabe bazgashti va hasel zarbe 2 adad.AssemblyInfoInputs.cache
+C:\Users\ALI\source\repos\tabe bazgashti va hasel zarbe 2 adad\tabe bazgashti va hasel zarbe 2 adad\obj\Debug\net8.0\tabe bazgashti va hasel zarbe 2 adad.AssemblyInfo.cs
+C:\Users\ALI\source\repos\tabe bazgashti va hasel zarbe 2 adad\tabe bazgashti va hasel zarbe 2 adad\obj\Debug\net8.0\tabe bazgashti va hasel zarbe 2 adad.csproj.CoreCompileInputs.cache
+C:\Users\ALI\source\repos\tabe bazgashti va hasel zarbe 2 adad\tabe bazgashti va hasel zarbe 2 adad\obj\Debug\net8.0\tabe bazgashti va hasel zarbe 2 adad.dll
+C:\Users\ALI\source\repos\tabe bazgashti va hasel zarbe 2 adad\tabe bazgashti va hasel zarbe 2 adad\obj\Debug\net8.0\refint\tabe bazgashti va hasel zarbe 2 adad.dll
+C:\Users\ALI\source\repos\tabe bazgashti va hasel zarbe 2 adad\tabe bazgashti va hasel zarbe 2 adad\obj\Debug\net8.0\tabe bazgashti va hasel zarbe 2 adad.pdb
+C:\Users\ALI\source\repos\tabe bazgashti va hasel zarbe 2 adad\tabe bazgashti va hasel zarbe 2 adad\obj\Debug\net8.0\tabe bazgashti va hasel zarbe 2 adad.genruntimeconfig.cache
+C:\Users\ALI\source\repos\tabe bazgashti va hasel zarbe 2 adad\tabe bazgashti va hasel zarbe 2 adad\obj\Debug\net8.0\ref\tabe bazgashti va hasel zarbe 2 adad.dll
